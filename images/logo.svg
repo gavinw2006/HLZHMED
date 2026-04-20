@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Hexagon mark -->
+  <polygon points="30,4 50,15 50,45 30,56 10,45 10,15" fill="#0A7EA4"/>
+  <!-- Cross inside hex -->
+  <rect x="26" y="20" width="8" height="20" fill="white" rx="1"/>
+  <rect x="20" y="26" width="20" height="8" fill="white" rx="1"/>
+  <!-- Company name text -->
+  <text x="62" y="28" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0A7EA4" letter-spacing="1">HLZHMED</text>
+  <text x="62" y="46" font-family="'Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="400" fill="#5A6678" letter-spacing="0.5">北京宏翎智合医疗科技</text>
+</svg>
